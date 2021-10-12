@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Joe, I'm a mathematician/data scientist/software person
 - 🏖️ I live in Newcastle, Australia
-- 🔭 I’m working at SwitchDin on the distributed renewable energy problem
-- 🌱 I’m currently learning more about green computing Category Theory
+- 🔭 I’m working at [SwitchDin](https://www.switchdin.com/) on the [distributed renewable energy problem](https://en.wikipedia.org/wiki/Distributed_generation)
+- 🌱 I’m currently learning more about [green computing](https://en.wikipedia.org/wiki/Green_computing) and [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
 - 📖 You can find my resume [here](https://github.com/joegurr/resume/blob/main/resume.pdf)
 - 🖥️ I'm slowly adding some maths articles to my [blog](https://joegurr.com/)
 - 📫 You can contact me at joseph.gurr@outlook.com
