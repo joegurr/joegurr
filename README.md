@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning more about [green computing](https://en.wikipedia.org/wiki/Green_computing) and [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
 - 📖 You can find my resume [here](https://github.com/joegurr/resume/blob/main/resume.pdf)
 - 🖥️ I'm slowly adding some maths articles to my [blog](https://joegurr.com/)
-- 📫 You can contact me at joseph.gurr@outlook.com
+- 📫 You can contact me at me@joegurr.com
