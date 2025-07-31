@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Joe, I'm a mathematician/data scientist/software person
-- 🏖️ I live in Sydney, Australia
+- 🏖️ I live in Newcastle, Australia
 - 💻 I tend to keep my personal code on [sourcehut](https://git.sr.ht/~joegurr) rather than github
 - 📖 You can find my resume [here](https://joegurr.com/resume.pdf)
 - 🖥️ I'm slowly adding some maths articles to my [blog](https://joegurr.com/)
